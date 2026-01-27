@@ -10,3 +10,6 @@ This will be made from sheets of 3mm plywood that I got for free and cut into a 
 - 1 M3x16mm Screw
 - 2 part epoxy resin
 - Blue alcohol ink 
+
+
+![20260127_080938](https://github.com/user-attachments/assets/3346dfe4-4c8f-4212-8798-b26532f856b6)
