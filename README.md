@@ -13,3 +13,6 @@ This will be made from sheets of 3mm plywood that I got for free and cut into a 
 
 
 ![20260127_080938](https://github.com/user-attachments/assets/3346dfe4-4c8f-4212-8798-b26532f856b6)
+<img width="1000" height="2000" alt="10m_-112 13_36 10_DEMandHistogram" src="https://github.com/user-attachments/assets/928372ef-634f-47de-b692-2de1eea8ae5d" />
+[10m_-112.13_36.10.tif](https://github.com/user-attachments/files/24885093/10m_-112.13_36.10.tif)
+
