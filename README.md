@@ -1,1 +1,12 @@
-# Grand_Canyon_Sculpture
+# Grand Canyon Sculpture
+
+We live in the UK but before COVID my mum used to love visiting family over in the US with them owning a house in the retirement home Sun city, AZ. I think she went a couple times as a teen and has fold memories with her dad there and when she took me Pre-COVID we had a great time and did some travelling while we were there. One of the places she really loved and still talks about is monument valley and the grand canyon. 
+We haven't been able to go back since COVID and the whole situation has changed so I want to build her this to go up on her wall to remind her of the fold memories. 
+This will be made from sheets of 3mm plywood that I got for free and cut into a topological map, I will them finish and apply epoxy to the bottom to mirror the (Colorado?) river. 
+
+## BOM
+- 3mm Plywood
+- 3D Printed parts
+- 1 M3x16mm Screw
+- 2 part epoxy resin
+- Blue alcohol ink 
