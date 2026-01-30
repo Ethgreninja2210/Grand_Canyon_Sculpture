@@ -11,8 +11,20 @@ This will be made from sheets of 3mm plywood that I got for free and cut into a 
 - 2 part epoxy resin
 - Blue alcohol ink 
 
+## Brief How-To: 
+- Cut the parts out and glue them together one layer at a time
+- Filler any gaps and then sand
+- Repeat for all layers
+- Apply any finishes you want
+- seal excess gaps on bottom layer with uv resin
+- Pour epoxy resin dyes blue into the river bank area
+
+- Wait.... Then done
+(Remember the plaque is both freestanding and able to be screwed into the side
 
 ![20260127_080938](https://github.com/user-attachments/assets/3346dfe4-4c8f-4212-8798-b26532f856b6)
+![20260127_080944](https://github.com/user-attachments/assets/8a4bfec7-cc8b-41ab-8664-f1bf85ace656)
+
 <img width="1000" height="2000" alt="10m_-112 13_36 10_DEMandHistogram" src="https://github.com/user-attachments/assets/928372ef-634f-47de-b692-2de1eea8ae5d" />
 
 
