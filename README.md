@@ -20,7 +20,10 @@ This will be made from sheets of 3mm plywood that I got for free and cut into a 
 - Pour epoxy resin dyes blue into the river bank area
 
 - Wait.... Then done
-(Remember the plaque is both freestanding and able to be screwed into the side
+(Remember the plaque is both freestanding and able to be screwed into the side)
+Full instructions pdf below
+[Grand Canyon Sculpture _ 8 Steps - Instructables.pdf](https://github.com/user-attachments/files/24997306/Grand.Canyon.Sculpture._.8.Steps.-.Instructables.pdf)
+
 ![20260131_095718](https://github.com/user-attachments/assets/c7c29550-3b9c-4b9b-8d97-cbcef02bebae)
 
 ![20260127_080938](https://github.com/user-attachments/assets/3346dfe4-4c8f-4212-8798-b26532f856b6)
